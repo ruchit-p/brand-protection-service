@@ -9,6 +9,10 @@ docker-compose.yml
 
 # Environment variables
 .env
+.env.local
+
+# Frontend local env
+frontend/.env.local
 
 # Logs
 logs/

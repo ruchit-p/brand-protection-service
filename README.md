@@ -146,6 +146,22 @@ docker-compose up -d
 3. **Dashboard**: Review flagged websites and examine evidence of potential infringement.
 4. **Actions**: Confirm genuine infringements or dismiss false positives.
 
+## Contributing
+
+Contributions are welcome! Please read the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) before opening issues or pull requests. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Security
+
+Please do not file public issues for security vulnerabilities. Review our [Security Policy](SECURITY.md) for safe disclosure guidance.
+
+## Code of Conduct
+
+This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md). Be kind and respectful in all interactions.
+
+## Support
+
+This project has no official support offering. If you encounter an issue, please open a GitHub issue. There is no SLA; best-effort responses only.
+
 ## License
 
 [MIT](LICENSE)
